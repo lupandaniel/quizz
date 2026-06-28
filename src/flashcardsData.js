@@ -4,7 +4,7 @@
 // tehnologii de cultivare, fertilizare, lucrările solului, semănat, întreținere,
 // recoltare, depozitare/păstrare cereale și legume, particularități legumicole.
 export const flashcardsData = {
-  title: "Subiecte proba practică",
+  title: "Subiecte proba orală",
   course: "Lucrător calificat în culturi de câmp și legumicultură",
   cards: [
     {

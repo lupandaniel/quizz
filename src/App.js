@@ -15,7 +15,7 @@ const CATEGORIES = [
   },
   {
     id: 'flashcards',
-    title: 'Subiecte proba practică',
+    title: 'Subiecte proba orală',
     description: 'Flashcard-uri: subiectul pe față, răspunsul pe verso.',
     meta: `${flashcardsData.cards.length} subiecte`,
     accent: '#bfe6c4',
