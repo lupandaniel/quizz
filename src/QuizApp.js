@@ -367,7 +367,7 @@ function QuizApp() {
       <Quiz
         key={runId}
         quiz={quizData}
-        shuffle={true}
+        shuffle={false}
         enableProgressBar={true}
         showInstantFeedback={true}
         showDefaultResult={false}
